@@ -91,6 +91,24 @@ Open **http://localhost:8501** in your browser.
 
 ---
 
+## Prerequisites — Data Folder
+
+The `data/` folder is **not included in this repo** (contains employee PII).
+It is provided separately in the assessment zip. Place it at the repo root:
+
+```
+veltrix-peopleops-assistant/
+├── data/
+│   ├── corpus/          ← 30 HR documents
+│   ├── manifest.json    ← document metadata
+│   └── veltrix.db       ← employee + leave database
+├── app/
+├── tests/
+...
+```
+
+---
+
 ## Quick Start (Docker) — Recommended
 
 Just 3 commands:

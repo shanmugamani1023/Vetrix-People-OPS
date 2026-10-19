@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
-data/veltrix.db
+data/
 __MACOSX/
 veltrix_assessment/
 *.egg-info/
