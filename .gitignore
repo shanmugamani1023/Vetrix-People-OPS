@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+data/veltrix.db
+__MACOSX/
+veltrix_assessment/
+*.egg-info/
+.DS_Store
